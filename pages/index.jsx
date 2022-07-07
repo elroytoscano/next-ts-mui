@@ -1,5 +1,5 @@
 function HomePage() {
-  return <div>NextJS with MUI</div>;
+  return <div>NextTS with MUI</div>;
 }
 
 export default HomePage;
